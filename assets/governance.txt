@@ -1,0 +1,5 @@
+User can vote for, against or abstain.
+
+A proposal must have (strictly more "for" votes then "against" votes to pass.
+
+"For" and "abstain" votes count towards the quorum. "Against" votes don't.
